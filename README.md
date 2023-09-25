@@ -14,7 +14,9 @@ Problem Definition -
 Motivation -
 
     • As already stated in our problem statement, this model helps in predicting whether a person has heart disease or not.
+    
     • Currently, the world is facing the devastating effects of COVID-19, which has had a significant impact on the global economy, health.
+    
     • By using the data analysis and machine learning model we will be predicting whether a person has heart disease or not based on 15 attributes. It helps in early detection of heart disease.
 
 Objective of the Project -
